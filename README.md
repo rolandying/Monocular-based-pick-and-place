@@ -11,4 +11,9 @@ Then please copy the files in this repository to their corresponding locations s
 
 Training
 ----------------------------------------
-`Under construction...`
+You can start the training by the commend:
+```
+cd IsaacGymEnvs/isaacgymenvs/
+python train.py task=MyNewTask
+```
+Configuring your training by modifying the [MyNewTask.yaml](https://github.com/rolandying/Monocular-based-pick-and-place/blob/main/IsaacGymEnvs/isaacgymenvs/cfg/task/MyNewTask.yaml) and [MyNewTaskPPO.yaml](https://github.com/rolandying/Monocular-based-pick-and-place/blob/main/IsaacGymEnvs/isaacgymenvs/cfg/train/MyNewTaskPPO.yaml) files

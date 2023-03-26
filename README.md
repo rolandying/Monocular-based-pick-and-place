@@ -17,3 +17,8 @@ cd IsaacGymEnvs/isaacgymenvs/
 python train.py task=MyNewTask
 ```
 Configuring your training by modifying the [MyNewTask.yaml](https://github.com/rolandying/Monocular-based-pick-and-place/blob/main/IsaacGymEnvs/isaacgymenvs/cfg/task/MyNewTask.yaml) and [MyNewTaskPPO.yaml](https://github.com/rolandying/Monocular-based-pick-and-place/blob/main/IsaacGymEnvs/isaacgymenvs/cfg/train/MyNewTaskPPO.yaml) files
+
+
+Testing
+----------------------------------------
+`Under construction...`

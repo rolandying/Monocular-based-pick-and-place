@@ -6,5 +6,9 @@ Dependence
 ----------------------------------------
 Our work is depending on the [Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) and [rl_games](https://github.com/Denys88/rl_games).
 
+Please first intall the [Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) and [rl_games](https://github.com/Denys88/rl_games) according to the introduction on their pages.
 
+
+Training
+----------------------------------------
 `Under construction...`

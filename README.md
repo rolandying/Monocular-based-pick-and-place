@@ -11,7 +11,7 @@ Then please copy the files in this repository to their corresponding locations s
 
 Training
 ----------------------------------------
-You can start the training by the commend:
+You can start the training by the command:
 ```
 cd IsaacGymEnvs/isaacgymenvs/
 python train.py task=MyNewTask
@@ -21,4 +21,9 @@ Configuring your training by modifying the [MyNewTask.yaml](https://github.com/r
 
 Testing
 ----------------------------------------
+If you want to test your model, you can run the command:
+```
+python train.py task=MyNewTask checkpoint= the/path/to/your/model  test=TEST
+```
+
 `Under construction...`

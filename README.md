@@ -26,4 +26,5 @@ If you want to test your model, you can run the command:
 python train.py task=MyNewTask checkpoint= the/path/to/your/model  test=TEST
 ```
 
+
 `Under construction...`

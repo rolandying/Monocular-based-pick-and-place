@@ -25,6 +25,6 @@ If you want to test your model, you can run the command:
 ```
 python train.py task=MyNewTask checkpoint= the/path/to/your/model  test=TEST
 ```
-
+Our model is available at [here](https://drive.google.com/file/d/1Q-O0sXF6U3BgdKJfr-EaYa_moP4s5QHz/view?usp=sharing).
 
 `Under construction...`

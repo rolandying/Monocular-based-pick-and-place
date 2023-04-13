@@ -2,6 +2,7 @@
 
 This Repository is for the paper: Monocular Camera-based Robotic pick-and-place in Fusion Applications, the link of the paper will soon be available.
 
+[![Monocular based pick and place](https://res.cloudinary.com/marcomontalbano/image/upload/v1681377973/video_to_markdown/images/youtube--z-LApEu1-hw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=z-LApEu1-hw "Monocular based pick and place")
 Dependence
 ----------------------------------------
 Our work is depending on the [Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) and [rl_games](https://github.com/Denys88/rl_games).
